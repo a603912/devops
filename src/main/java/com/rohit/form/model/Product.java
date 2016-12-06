@@ -5,6 +5,7 @@ public class Product {
 	private Integer id;
 	private String productName;
 	private Integer productPrice;
+	private Integer productPrice2;
 
 
 	public Integer getId() {
