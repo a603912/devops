@@ -3,12 +3,12 @@ package com.rohit.form.model;
 // TODO: Auto-generated Javadoc
 /**
  * The Class Product.
- *
+ *http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1605088
  * @author a603912
  */
-public class Product {
+public class Product { 
 
-	/** The id. */
+	/** The id. sdz*/
 	private Integer id;
 	
 	/** The product name. */
