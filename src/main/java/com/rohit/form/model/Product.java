@@ -8,7 +8,7 @@ package com.rohit.form.model;
  */
 public class Product { 
 
-	/** The id. */
+	/** The id.test */
 	private Integer id;
 	
 	/** The product name. */
